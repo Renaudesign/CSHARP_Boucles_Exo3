@@ -1,0 +1,13 @@
+C:\Users\Renaud\Desktop\LAMANU\Intro DotNET\CSHARP_Boucles_Exo3\bin\Debug\netcoreapp3.1\CSHARP_Boucles_Exo3.exe
+C:\Users\Renaud\Desktop\LAMANU\Intro DotNET\CSHARP_Boucles_Exo3\bin\Debug\netcoreapp3.1\CSHARP_Boucles_Exo3.deps.json
+C:\Users\Renaud\Desktop\LAMANU\Intro DotNET\CSHARP_Boucles_Exo3\bin\Debug\netcoreapp3.1\CSHARP_Boucles_Exo3.runtimeconfig.json
+C:\Users\Renaud\Desktop\LAMANU\Intro DotNET\CSHARP_Boucles_Exo3\bin\Debug\netcoreapp3.1\CSHARP_Boucles_Exo3.runtimeconfig.dev.json
+C:\Users\Renaud\Desktop\LAMANU\Intro DotNET\CSHARP_Boucles_Exo3\bin\Debug\netcoreapp3.1\CSHARP_Boucles_Exo3.dll
+C:\Users\Renaud\Desktop\LAMANU\Intro DotNET\CSHARP_Boucles_Exo3\bin\Debug\netcoreapp3.1\CSHARP_Boucles_Exo3.pdb
+C:\Users\Renaud\Desktop\LAMANU\Intro DotNET\CSHARP_Boucles_Exo3\obj\Debug\netcoreapp3.1\CSHARP_Boucles_Exo3.csprojAssemblyReference.cache
+C:\Users\Renaud\Desktop\LAMANU\Intro DotNET\CSHARP_Boucles_Exo3\obj\Debug\netcoreapp3.1\CSHARP_Boucles_Exo3.AssemblyInfoInputs.cache
+C:\Users\Renaud\Desktop\LAMANU\Intro DotNET\CSHARP_Boucles_Exo3\obj\Debug\netcoreapp3.1\CSHARP_Boucles_Exo3.AssemblyInfo.cs
+C:\Users\Renaud\Desktop\LAMANU\Intro DotNET\CSHARP_Boucles_Exo3\obj\Debug\netcoreapp3.1\CSHARP_Boucles_Exo3.csproj.CoreCompileInputs.cache
+C:\Users\Renaud\Desktop\LAMANU\Intro DotNET\CSHARP_Boucles_Exo3\obj\Debug\netcoreapp3.1\CSHARP_Boucles_Exo3.dll
+C:\Users\Renaud\Desktop\LAMANU\Intro DotNET\CSHARP_Boucles_Exo3\obj\Debug\netcoreapp3.1\CSHARP_Boucles_Exo3.pdb
+C:\Users\Renaud\Desktop\LAMANU\Intro DotNET\CSHARP_Boucles_Exo3\obj\Debug\netcoreapp3.1\CSHARP_Boucles_Exo3.genruntimeconfig.cache
