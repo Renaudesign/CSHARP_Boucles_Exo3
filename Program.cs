@@ -16,19 +16,17 @@ namespace CSHARP_Boucles_Exo3
             while (continuer == "o")
             {
                 Console.WriteLine($"Le résultat est {result}. \n Souhaitez-vous y ajouter un autre nombre ? O/N");
-                string reponse = Console.ReadLine().ToLower();
+                continuer = Console.ReadLine().ToLower();
 
-                if (reponse == "o")
+                if (continuer == "o")
                     {
                     Console.WriteLine("Alors veuillez indiquer un autre nombre.");
                     int input2 = int.Parse(Console.ReadLine());
                     result += input2;}
-                else
-                    {
-                    continuer = "n";}
+                
             }
 
-
+            Console.WriteLine("Expérience terminée, au revoir.");
         }
     }
 }
